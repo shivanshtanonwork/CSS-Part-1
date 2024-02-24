@@ -1,0 +1,39 @@
+h1 {
+  font-family: league spartan;
+  color: #ffa511;
+  text-align: center;
+  font-size: 55px;
+  font-weight: 900;
+  letter-spacing: 2px;
+  line-height: 1.5;
+  text-decoration: teal double underline;
+  text-transform: uppercase;
+}
+
+h2 {
+  color: orange;
+  text-align: center;
+}
+
+h3 {
+  text-align: right;
+  font-weight: 700;
+}
+
+h4 {
+  text-align: right;
+  font-weight: normal;
+}
+
+p {
+  text-align: justify;
+  font-weight: 200;
+  text-decoration: blueviolet underline;
+  line-height: 2;
+  /* letter-spacing: 2px; */
+  font-size: 30px;
+}
+
+a {
+  text-decoration: none;
+}
